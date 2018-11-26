@@ -1,0 +1,31 @@
+
+.post-submitter-settings-bot-token td.alert{
+	color: #e74c3c
+}
+.post-submitter-settings-bot-token td.success{
+	color: #27ae60
+}
+
+.post-submitter-settings-bot-token td.info{
+	color: #3498db
+}
+.post-submitter-logs .alert{
+	color: #e74c3c
+}
+.post-submitter-logs .success{
+	color: #27ae60
+}
+.post-submitter-logs .info{
+	color: #3498db
+}
+.post-submitter-test-send{
+	width: 50%
+}
+.post-submitter-test-send .button.button-primary.button-large{
+	margin: 10px 0
+}
+@media(max-width: 768px){
+	.post-submitter-test-send{
+		width: 100%
+	}
+}
